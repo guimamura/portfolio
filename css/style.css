@@ -11454,14 +11454,14 @@ h5,
   margin: 0;
   width: 100%;
 }
-.ftco-about ul.about-info li {
+.ftco-about div.about-info div {
   list-style: none;
   margin-bottom: 10px;
 }
-.ftco-about ul.about-info li span {
+.ftco-about div.about-info div div {
   width: calc(100% - 130px);
 }
-.ftco-about ul.about-info li span:first-child {
+.ftco-about div.about-info div div:first-child {
   font-weight: 600;
   color: #fff;
   width: 130px;
